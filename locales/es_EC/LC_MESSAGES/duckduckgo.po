@@ -4781,15 +4781,15 @@ msgstr "Enlaces Web"
 
 msgctxt "maps_places"
 msgid "Website"
-msgstr ""
+msgstr "Sitio web"
 
 msgctxt "settings"
 msgid "Welcome Message"
-msgstr ""
+msgstr "Mensaje de bienvenida"
 
 msgctxt "new user poll"
 msgid "Welcome back!"
-msgstr "¡Bienvenido!"
+msgstr "¡Bienvenido de nuevo!"
 
 msgctxt "homepage onboarding"
 msgid "Welcome to the Duck Side!"
@@ -4797,7 +4797,7 @@ msgstr "¡Bienvenido al Lado del Pato!"
 
 msgctxt "maps_places"
 msgid "What People Say"
-msgstr ""
+msgstr "Que dice la gente"
 
 msgctxt "new user poll"
 msgid "What brought you back today?"
@@ -4805,7 +4805,7 @@ msgstr "¿Qué te trajo de vuelta hoy?"
 
 msgctxt "feedback form"
 msgid "What could be better?"
-msgstr "¿Qué podría mejorarse?"
+msgstr "¿Qué podríaamos mejorar?"
 
 msgctxt "feedback form"
 msgid "What did you like?"
@@ -4813,7 +4813,7 @@ msgstr "¿Qué te gustó?"
 
 msgctxt "feedback form"
 msgid "What do you think?"
-msgstr ""
+msgstr "¿Que piensas?"
 
 #. Click "What is this?" - http://i.imgur.com/KhmRHth.png
 #. Then in the cloud save box - http://i.imgur.com/ta4V0Xy.png
@@ -4884,7 +4884,7 @@ msgstr "Información de Wikipedia"
 
 msgctxt "forecast"
 msgid "Wind"
-msgstr ""
+msgstr "Viento"
 
 #. https://duckduckgo.com/feedback under "Community Platform" header
 msgid "Would you like to help develop the platform?"
@@ -4942,7 +4942,7 @@ msgstr ""
 
 msgctxt "welcome message"
 msgid "You now have the DuckDuckGo extension!"
-msgstr ""
+msgstr "Ahora ya tienes la extensión de DuckDuckGo"
 
 msgid ""
 "You now have the tools you need to control your online footprint and take "
@@ -4999,7 +4999,8 @@ msgid ""
 "Your browser provides the list of most-visited sites. DuckDuckGo never has "
 "access to this data."
 msgstr ""
-
+"Tu navegador te provee de una lista de sitios más visitados. DuckDuckGo nunca"
+"tiene acceso a esos datos."
 msgctxt "homepage ATB modal"
 msgid "Your data shouldn’t be for sale."
 msgstr "Tus datos no deberían estar a la venta"
@@ -5115,14 +5116,14 @@ msgid "permanently"
 msgstr "permanentemente"
 
 msgid "private search"
-msgstr ""
+msgstr "busqueda privada"
 
 #. The English version is not capitalized...
 msgid "search too long"
 msgstr "búsqueda demasiado larga"
 
 msgid "site encryption"
-msgstr ""
+msgstr "encriptación del sitio"
 
 #. Message displayed sometimes at top of results -- in the context of safe search.
 msgid "temporarily"
@@ -5136,7 +5137,7 @@ msgid "this help page"
 msgstr "esta página de ayuda"
 
 msgid "too many search terms"
-msgstr ""
+msgstr "demasiados elementos de búsqueda"
 
 #. Link on the homepage in the context of the No Tracking and donttrack.us
 msgctxt "donttrackus"
@@ -5149,7 +5150,7 @@ msgid "track"
 msgstr "seguir"
 
 msgid "tracker blocking"
-msgstr ""
+msgstr "bloqueo de rastreador"
 
 #~ msgid "Auto-load:"
 #~ msgstr "Autorecarga:"
