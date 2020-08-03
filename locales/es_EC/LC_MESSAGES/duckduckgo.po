@@ -19,23 +19,23 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
 msgid "!Bang Search Shortcuts"
-msgstr ""
+msgstr "!Bang Atajos de busqueda."
 
 msgctxt "showcase_donations"
 msgid "$800,000 in privacy donations!"
-msgstr ""
+msgstr "$800,000 en donaciones privadas."
 
 msgctxt "SERP footer content"
 msgid "%s Billion Searches"
-msgstr ""
+msgstr "%s mil millones de búsquedas."
 
 msgid "%s blocked by safe search."
-msgstr ""
+msgstr "%s bloqueados por búsqueda segura."
 
 #. We realise this is the incorrect way to handle plurals. Sorry, we are working on a fix.
 msgctxt "published dates for organic results"
 msgid "%s days ago"
-msgstr ""
+msgstr "Hace %s dia(s)."
 
 #. in https://duckduckgo.com/params. multiple fors
 msgid "%s for %s"
@@ -44,22 +44,22 @@ msgstr "%s para %s"
 #. We realise this is the incorrect way to handle plurals. Sorry, we are working on a fix.
 msgctxt "published dates for organic results"
 msgid "%s hours ago"
-msgstr ""
+msgstr "Hace %s hora(s)."
 
 msgctxt "showcase_donations"
 msgid "%s in privacy donations!"
-msgstr ""
+msgstr "%s en donaciones "
 
 msgid "%s km"
-msgstr ""
+msgstr "%s Km."
 
 msgid "%s mi"
-msgstr ""
+msgstr "%s mi."
 
 #. This is used to add attribution to user reviews on websites, e.g. "John Doe on Yelp"
 msgctxt "maps_places"
 msgid "%s on %s"
-msgstr ""
+msgstr "%s en %s"
 
 msgctxt "hackus"
 msgid "%s us."
@@ -77,61 +77,65 @@ msgstr "%snos."
 
 msgctxt "SERP footer content"
 msgid "%s%s%s Billion Searches"
-msgstr ""
+msgstr "%s%s%s Mil millones de Búsquedas."
 
 #. The placeholder here will be a bold number. Sorry, this is hard to translate.
 msgctxt "homepage ATB social proof"
 msgid "%s%s%s reviews"
-msgstr ""
+msgstr "%s%s%s reseñas."
 
 msgctxt "install-duckduckgo"
 msgid "%sClick %sAllow%sClick %sAdd%sCheck %sAllow%s, then click %sOkay%s"
-msgstr ""
+msgstr "%s Haz click en %sPermitis%sHaz click en %s Agregar%sVerificar %Permitir%s, luego haz click en %sOk%s"
 
 msgctxt "install-duckduckgo"
 msgid ""
 "%sClick %sContinue To Installation%sClick %sAdd%sCheck %sAllow%s, then click "
 "%sOkay%s"
 msgstr ""
+"%sHaz click en %sContinuar con la instalación%sHaz click en %sAgregar%sVerificar%s, luego haz click en"
+"%sOk%s"
 
 msgctxt "noresults"
 msgid ""
 "%sClick here%s to try again, if you think there should be results for this "
 "search."
 msgstr ""
+"%sClick aquí%s para intentar de nuevo, sí crees que debería haber resultados para esta"
+"búsqueda."
 
 msgctxt "frontpage"
 msgid "%sHelp Spread DuckDuckGo!%s"
-msgstr ""
+msgstr "%sAyuda a difundir DuckDuckGo!%s"
 
 msgctxt "frontpage"
 msgid "%sHelp Spread DuckDuckGo%s."
-msgstr ""
+msgstr "%sAyuda a difundir DuckDuckGo."
 
 msgctxt "frontpage"
 msgid "%sLearn More%s."
-msgstr ""
+msgstr "%sAprender más.%s"
 
 msgid "%sRight click%s in the search bar"
-msgstr ""
+msgstr "%sClick derecho en la barra de búsqueda."
 
 #. We realise this is the incorrect way to handle plurals. Sorry, we are working on a fix.
 msgctxt "published dates for organic results"
 msgid "1 day ago"
-msgstr ""
+msgstr "Hace un día."
 
 #. We realise this is the incorrect way to handle plurals. Sorry, we are working on a fix.
 msgctxt "published dates for organic results"
 msgid "1 hour ago"
-msgstr ""
+msgstr "Hace una hora."
 
 msgctxt "install-extension"
 msgid "1. Open %sDownloads%s"
-msgstr ""
+msgstr "1. Abre %sDescargas%s"
 
 msgctxt "install-extension"
 msgid "2. Double-click %sduckduckgo.safariextz%s"
-msgstr ""
+msgstr "2. Doble click en %sduckduckgo.safariextz%s"
 
 #. https://duckduckgo.com/params in the end under " Source:"
 msgid "A string to identify the source."
@@ -143,7 +147,7 @@ msgstr ""
 
 msgctxt "settings"
 msgid "ATB related (not displayed on settings page)"
-msgstr ""
+msgstr "configuraciones"
 
 #. In the new DDG website, this token appears as the Tab name for Instant Answers that give general information about a subject. eg. https://duckduckgo.com/?q=Sony
 #. It is not "About DuckDuckGo".
@@ -161,7 +165,7 @@ msgid "About DuckDuckGo"
 msgstr "Acerca de DuckDuckGo"
 
 msgid "About Us"
-msgstr ""
+msgstr "Sobre nosotros."
 
 #. Ad like 'advertisement'
 msgid "Ad"
@@ -169,33 +173,33 @@ msgstr "Publicidad"
 
 msgctxt "feedback form"
 msgid "Ad is annoying"
-msgstr ""
+msgstr "El anuncio es molesto."
 
 msgctxt "feedback form"
 msgid "Ad is inappropriate"
-msgstr ""
+msgstr "El anuncio es inapropiado."
 
 msgctxt "feedback form"
 msgid "Ad is irrelevant"
-msgstr ""
+msgstr "El anuncio es irrelevante."
 
 msgctxt "feedback form"
 msgid "Ad is malware"
-msgstr ""
+msgstr "El anuncio es malware."
 
 msgctxt "feedback form"
 msgid "Ad is suspicious"
-msgstr ""
+msgstr "El anuncio es sospechoso."
 
 #. From Home page, options to "Add DuckDuckGo" to browser or set as home page.
 msgid "Add DuckDuckGo"
 msgstr "Añadir DuckDuckGo"
 
 msgid "Add DuckDuckGo as a search engine"
-msgstr ""
+msgstr "Añadir DuckDuckGo como buscador."
 
 msgid "Add DuckDuckGo to %s"
-msgstr ""
+msgstr "Añadir DuckDuckGo a %s"
 
 #. https://duckduckgo.com/search_box near the top
 #. e.g.: Add a DuckDuckGo search box to your site! 
@@ -206,13 +210,15 @@ msgid ""
 "Add privacy protection to your browser. Search privately, block trackers, "
 "secure connections, and more — all for free."
 msgstr ""
+"Añadir protección de privacidad a tu navegador. Busca de manera privada, bloquea rastreadores, "
+"Asegura tu conexión, y más - Absolutamente gratis."
 
 #. In the top menu under Team Duck -- %s will be browser names, like Firefox.
 msgid "Add to %s"
 msgstr "Agregar a %s"
 
 msgid "Add to Home Screen"
-msgstr ""
+msgstr "Agregar a la Pantalla de Inicio."
 
 #. In the top menu under Goodies
 msgid "Add-ons"
@@ -220,7 +226,7 @@ msgstr "Complementarios"
 
 msgctxt "maps_places"
 msgid "Address"
-msgstr ""
+msgstr "Dirección"
 
 #. https://duckduckgo.com/params near the top under "Privacy Settings"
 msgid "Address bar:"
@@ -228,11 +234,11 @@ msgstr "Barra de direcciones:"
 
 #. as in multiple advertisements
 msgid "Ads"
-msgstr ""
+msgstr "Anuncios"
 
 msgctxt "feedback form"
 msgid "Advertisements"
-msgstr ""
+msgstr "Anuncios."
 
 #. http://i.imgur.com/ZG0Mz3R.png
 msgctxt "settings"
@@ -244,28 +250,29 @@ msgid "Advertisements:"
 msgstr "Publicidad:"
 
 msgid "After it downloads and opens, click %sInstall%s"
-msgstr ""
+msgstr "Luego que se descargue y abra, haz click en %sInstalar%s"
 
 msgid ""
 "After it downloads, locate the extension file and double-click it to install"
 msgstr ""
+"Despues de que se descarga, busca el archivo de la extensión y haz doble-click para instalar."
 
 msgid "All"
 msgstr "Todo"
 
 msgctxt "image-color"
 msgid "All Colors"
-msgstr ""
+msgstr "Todos los colores"
 
 msgctxt "image-layout"
 msgid "All Layouts"
 msgstr ""
 
 msgid "All Places"
-msgstr ""
+msgstr "Todos los Lugares"
 
 msgid "All Regions"
-msgstr ""
+msgstr "Todas las Regiones"
 
 msgid "All Results"
 msgstr "Todos los resultados"
@@ -280,15 +287,15 @@ msgstr "Todos los Tamaños"
 
 msgctxt "image-type"
 msgid "All Types"
-msgstr ""
+msgstr "Todos los tipos"
 
 msgctxt "install-duckduckgo"
 msgid "Almost there!"
-msgstr ""
+msgstr "¡Casi ahí!"
 
 msgctxt "homepage onboarding"
 msgid "Already a fan?"
-msgstr ""
+msgstr "¿Ya eres un fan?"
 
 #. For rotating carousel on the home page.
 #. "Help Spread DuckDuckGo!" links to /spread page
@@ -327,28 +334,28 @@ msgstr "Respuestas a la mayoría de preguntas de DuckDuckGo, como:"
 
 msgctxt "video-duration"
 msgid "Any Duration"
-msgstr ""
+msgstr "Cualquier duración"
 
 msgctxt "video-license"
 msgid "Any License"
-msgstr ""
+msgstr "Cualquier licencia"
 
 msgctxt "video-resolution"
 msgid "Any Resolution"
-msgstr ""
+msgstr "Cualquier Resolución"
 
 #. Option for the filter-by-date search.
 msgid "Any Time"
 msgstr "En cualquier momento"
 
 msgid "Anywhere"
-msgstr ""
+msgstr "En cualquier lugar"
 
 msgid "App"
-msgstr ""
+msgstr "Aplicación"
 
 msgid "App and Extension"
-msgstr ""
+msgstr "Aplicación y Estensión"
 
 msgid "Appearance"
 msgstr "Apariencia"
@@ -360,15 +367,15 @@ msgstr "Apariencia"
 
 #. Instant Answer Tab Name
 msgid "Apps"
-msgstr ""
+msgstr "Aplicaciones"
 
 msgctxt "feedback form"
 msgid "Are these ads helpful?"
-msgstr ""
+msgstr "¿Estos anuncios son útiles?"
 
 msgctxt "feedback form"
 msgid "Are these links helpful?"
-msgstr ""
+msgstr "¿Estos enlaces son útiles?"
 
 msgid "Argentina"
 msgstr ""
@@ -404,14 +411,14 @@ msgstr "Automáticamente se abrirán respuestas instantáneas "
 #. Used to show the numerical rating, when the user hovers over a visual star-rating. Sorry, this is hard to translate.
 msgctxt "homepage ATB social proof"
 msgid "Average rating: %s out of 5"
-msgstr ""
+msgstr "Calificación promedio: %s de 5"
 
 msgid "Avoid eavesdropping and enhance wi-fi security."
-msgstr ""
+msgstr "Evita el espionaje y mejora la seguridad de tu "Wi-Fi"
 
 msgctxt "homepage onboarding"
 msgid "Back to search"
-msgstr ""
+msgstr "Volver a la busqueda."
 
 #. http://i.imgur.com/6Eip5h1.png
 msgctxt "settings"
@@ -485,17 +492,17 @@ msgstr "Básico"
 
 msgctxt "theme"
 msgid "Basic"
-msgstr ""
+msgstr "Básico"
 
 msgctxt "precise_user_location"
 msgid "Before you go, please help us understand why:"
 msgstr "Antes de irte, ayúdanos a entender por qué:"
 
 msgid "Belgium (fr)"
-msgstr ""
+msgstr "Belgica (fr)"
 
 msgid "Belgium (nl)"
-msgstr ""
+msgstr "Belgica (nl)"
 
 msgctxt "settingsvalue"
 msgid "Best Available"
